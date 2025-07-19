@@ -1,0 +1,10 @@
+# 共通
+node_modules/
+.env
+
+# frontend
+frontend/build
+
+# backend
+backend/node_modules
+backend/.env
